@@ -37,13 +37,13 @@
     <a href="#">
       <img src="https://custom-icon-badges.demolab.com/badge/Paper-Under%20Review-green?logo=paper" />
     </a>
-    <a href="#">
+    <a href="https://yuyuyu223.github.io/XYZCYlinder-projectpage/">
       <img src="https://custom-icon-badges.demolab.com/badge/Project%20Page-purple?logo=web" />
     </a>
-    <a href="#">
+    <a href="https://huggingface.co/howsenfisher/XYZCylinder">
       <img alt="Tests Coverage" src="https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-coming%20soon-orange" />
     </a>
-    <a href="#">
+    <a href="https://www.modelscope.cn/models/yuyuyu223/XYZCylinder">
       <img alt="Issues" src="https://custom-icon-badges.demolab.com/badge/ModelScope-coming%20soon-624aff.svg?logo=modelscope&logoColor=white" />
     </a>
     <!-- <a href="#">
