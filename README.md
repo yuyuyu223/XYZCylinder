@@ -16,12 +16,12 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" />
   <a href="https://yuyuyu223.github.io/howsenfisher.github.io/">Haochen Yu</a>,
-  <a href="#">Qiankun Liu</a>,
-  <a href="#">Hongyuan Liu</a>,
-  <a href="#">Jianfei Jiang</a>,
-  <a href="#">Juntao Lyu</a>,
-  <a href="#">Jiansheng Chen</a>,
-  <a href="#">Huimin Ma</a>
+  <a href="https://scholar.google.com/citations?user=TNDbzzMAAAAJ&hl=zh-CN">Qiankun Liu</a>,
+  <a href="https://scholar.google.com/citations?user=Gt3-rnAAAAAJ&hl=zh-CN">Hongyuan Liu</a>,
+  <a href="https://jianfeij.github.io/">Jianfei Jiang</a>,
+  <a href="https://openreview.net/profile?id=~Juntao_Lyu1">Juntao Lyu</a>,
+  <a href="https://scholar.google.com/citations?user=A1gA9XIAAAAJ&hl=zh-CN">Jiansheng Chen</a>,
+  <a href="http://www.3dimagelab.com/index.php/huimin-ma/">Huimin Ma</a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" />
 </h3>
 <h3 align="center">
