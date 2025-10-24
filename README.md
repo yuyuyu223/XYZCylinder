@@ -84,4 +84,15 @@ Recently, more attention has been paid to feedforward reconstruction paradigms, 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Citation
 
 If you find this repository useful for your research, please use the following BibTeX entry for citation.
+```
+@article{yu2025xyzcylinder,
+  title={XYZCylinder: Feedforward Reconstruction for Driving Scenes Based on A Unified Cylinder Lifting Method},
+  author={Yu, Haochen and Liu, Qiankun and Liu, Hongyuan and Jiang, Jianfei and Lyu, Juntao and Chen, Jiansheng and Ma, Huimin},
+  journal={arXiv preprint arXiv:2510.07856},
+  year={2025}
+}
+```
+
+
+
 
