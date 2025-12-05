@@ -85,11 +85,14 @@ Feed-forward paradigms for 3D reconstruction have become a focus of recent resea
 
 If you find this repository useful for your research, please use the following BibTeX entry for citation.
 ```
-@article{yu2025xyzcylinder,
-  title={XYZCylinder: Feedforward Reconstruction for Driving Scenes Based on A Unified Cylinder Lifting Method},
-  author={Yu, Haochen and Liu, Qiankun and Liu, Hongyuan and Jiang, Jianfei and Lyu, Juntao and Chen, Jiansheng and Ma, Huimin},
-  journal={arXiv preprint arXiv:2510.07856},
-  year={2025}
+@misc{yu2025xyzcylindercompatiblefeedforward3d,
+      title={XYZCylinder: Towards Compatible Feed-Forward 3D Gaussian Splatting for Driving Scenes via Unified Cylinder Lifting Method}, 
+      author={Haochen Yu and Qiankun Liu and Hongyuan Liu and Jianfei Jiang and Juntao Lyu and Jiansheng Chen and Huimin Ma},
+      year={2025},
+      eprint={2510.07856},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.07856}, 
 }
 ```
 
